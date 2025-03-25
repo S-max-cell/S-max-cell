@@ -25,7 +25,7 @@ Skills: <** HTML / CSS / JS **>
 <p align="center">
 <a href="https://(https://www.facebook.com/share/18xemVMccN/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="This-is-Sohel098" height="30" width="40" /></a>
 
-<a href="[https://instagram.com/tutul_181](https://www.instagram.com/sohelmalik10/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/sohelmalik10?igsh=Mzh2NWtyYWdiNjRo](https://www.instagram.com/sohelmalik10/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 
 </p>
 
