@@ -8,13 +8,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=This-is-Sohel098&color=red)
 
-Skills: HTML / CSS / JS / C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: <** HTML / CSS / JS **>
 
 </div>
 
 - 🔭 I’m currently Learning Front End Web Developer.
-
-- 🌱 I’m currently learning Golang, Java, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/This-is-Sohel098](https://github.com/This-is-Sohel098)
 
